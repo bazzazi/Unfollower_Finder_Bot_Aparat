@@ -1,4 +1,4 @@
-# Aparat Unfollow Finder Bot :robot:
+# Aparat Unfollower Finder Bot :robot:
 Hi everybody :wave:
 
 Hope you doing well :blush:
@@ -6,7 +6,7 @@ Hope you doing well :blush:
 Follow instruction to use the script.
 - Put your aparat **Username & Password** in info.py file
 - Run the script
-- Help the script to login to your account (Read the sent code from aparat and write it to browser)
+- Help the script to login to your account (Read the sent code from aparat to your phone and write it to browser)
 - Enjoy 🙂
 
 
